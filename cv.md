@@ -6,7 +6,7 @@
 * Address: Krasnodar, Russia
 * Telegram: +79181826851
 * E-mail: cactusxd79@gmail.com
-* GitHub: ValHoge
+* GitHub:  [ValHoge](https://github.com/ValHoge)
 
 ****
 
